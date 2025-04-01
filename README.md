@@ -1,7 +1,7 @@
 # corne
 Custom keymap for the Corne Rev3 with Helios microcontrollers
 
-#To use:
+## To use:
 
 First install QMK  
 
